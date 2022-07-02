@@ -5,7 +5,7 @@
 
 ## What
 
-This CV is created using the **`R`** Package [`vitae`](https://github.com/SIRIYAK/CV)
+This CV is created using the **`R`** Package [`vitae`](https://github.com/SIRIYAK/cv)
 
 ---
 
