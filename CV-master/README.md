@@ -1,11 +1,12 @@
-[![](./img/cvPreview.png)](https://github.com/tallguyjenks/CV/blob/master/CV.pdf)
+[![](./img/SIRI.png)](https://github.com/SIRIYAK/cv.pdf)
 
 # My Data Driven CV
 
 ## What
 
-This CV is created using the **`R`** Package [`vitae`](https://github.com/mitchelloharawild/vitae)
+This CV is created using the **`R`** Package [`vitae`](https://github.com/SIRIYAK/cv)
 
+https://github.com/SIRIYAK/cv
 ---
 
 > _**Curriculum Vitae**_
