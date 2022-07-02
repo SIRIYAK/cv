@@ -1,4 +1,4 @@
-# cv.[PDF](https://907a8e4509b0462a9b40f487672a6d48.app.rstudio.cloud/file_show?path=%2Fcloud%2Fproject%2FCV-master%2FCV.pdf "click") 
+# cv
 
 <img src="CV-master/img/SIRI.jpg" alt="ty" width="120"/>
 
