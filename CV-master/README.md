@@ -1,22 +1,20 @@
-[![](./img/SIRI.png)](https://github.com/SIRIYAK/CV.pdf)
+# <img src="img/SIRI.jpg" alt="siriyak cr" width="92"/>
 
-# My Data Driven CV
+# My [PDF](https://907a8e4509b0462a9b40f487672a6d48.app.rstudio.cloud/file_show?path=%2Fcloud%2Fproject%2FCV-master%2FCV.pdf "click") Data Driven CV
 
 ## What
 
-This CV is created using the **`R`** Package [`vitae`](https://github.com/SIRIYAK/CV)
+This CV is created using the **`R`** Package [`vitae`](https://github.com/SIRIYAK/cv.git)
 
+------------------------------------------------------------------------
 
----
-
-> _**Curriculum Vitae**_
+> ***Curriculum Vitae***
 >
 > a short account of one's career and qualifications prepared typically by an applicant for a position
 >
 > --- Merriam Webster's Dictionary
 
----
-
+------------------------------------------------------------------------
 
 ## Why
 
@@ -28,9 +26,9 @@ I needed a CV that i can easily update, gets out of my way, and is easily access
 
 This document utilizes **RMarkdown** and is compiled through pandoc.
 
-I use various other packages with `vitae` such as `here`, `tibble`, `glue`, and `magrittr` (for the pipe _`%>%`_)
+I use various other packages with `vitae` such as `here`, `tibble`, `glue`, and `magrittr` (for the pipe *`%>%`*)
 
-With RStudio i read in my _tribbles_ contained in the `data.r` script containing all my data, then using the `vitae` functions and `glue` string literals, i create the document itself.
+With RStudio i read in my *tribbles* contained in the `data.r` script containing all my data, then using the `vitae` functions and `glue` string literals, i create the document itself.
 
 Data exists in in the `data.r` file in the `r/` directory and is added to the CV when the script is sourced by the `RMarkdown` document in the main directory.
 

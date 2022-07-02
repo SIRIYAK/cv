@@ -1,11 +1,11 @@
 # cv
-[![](./img/SIRI.png)](https://github.com/SIRIYAK/CV.pdf)
+[![](./img/SIRI.png)](https://github.com/SIRIYAK/cv/blob/main/CV-master/CV.pdf)
 
 # My Data Driven CV
 
 ## What
 
-This CV is created using the **`R`** Package [`vitae`](https://github.com/SIRIYAK/cv)
+This CV is created using the **`R`** Package [`vitae`](https://github.com/SIRIYAK/cv.git)
 
 ---
 
