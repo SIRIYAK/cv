@@ -1,5 +1,7 @@
 # <img src="img/SIRI.jpg" alt="siriyak cr" width="92"/>
 
+[![](./img/SIRI.png)](<https://github.com/SIRIYAK/cv/blob/main/CV-master/CV.pdf)>
+
 # My [PDF](https://907a8e4509b0462a9b40f487672a6d48.app.rstudio.cloud/file_show?path=%2Fcloud%2Fproject%2FCV-master%2FCV.pdf "click") Data Driven CV
 
 ## What
